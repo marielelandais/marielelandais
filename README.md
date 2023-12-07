@@ -1,7 +1,23 @@
-### Hi there 👋
+# Hi there 👋
 
 Based in the Greater Paris area, I'm a Product Documentation manager experienced in technical writing in both English and French, documentation engineering and information architecture.
 I'm keen on complex technical subjects.
+
+Specialties: 
+-Technical communication with structured documentation (XML Docbook and XML DITA), 
+-Documentation engineering with XML, CSS and Apache Maven,
+-Information architecture and taxonomy.
+
+Known programming languages: HTML, XML, CSS, etc.
+
+# Current experience
+
+ILEX by Inetum
+Product Documentation manager
+Jan 2021 - Present
+Senior Technical Writer
+May 2020 - Present
+
 
 <!--
 **marielelandais/marielelandais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
