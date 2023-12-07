@@ -13,10 +13,8 @@ Known programming languages: HTML, XML, CSS, etc.
 # Current experience
 
 ILEX by Inetum
-Product Documentation manager
-Jan 2021 - Present
-Senior Technical Writer
-May 2020 - Present
+Jan 2021 - Present: Product Documentation manager
+May 2020 - Present: Senior Technical Writer
 
 
 <!--
