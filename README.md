@@ -15,8 +15,8 @@ Known programming languages: HTML, XML, CSS, etc.
 
 |Period|Position|
 | :------------------ | :---------------------------- |
-| Jan 2021 - Present  | Product Documentation manager |
-| May 2020 - Present  | Senior Technical Writer       |
+| Jan 2021 - Present  | Product documentation manager |
+| May 2020 - Present  | Senior technical writer       |
 
 # Past experiences
 ## LGM Digital
@@ -29,14 +29,14 @@ Known programming languages: HTML, XML, CSS, etc.
 
 |Period|Position|
 | :------------------ | :---------------------------- |
-| Sept 2018 - Jun 2019  |  Fitness Coach intern for the French sports and fitness instructor diploma BPJEPS |
+| Sept 2018 - Jun 2019  |  Fitness coach intern for the French sports and fitness instructor diploma BPJEPS |
 
 ## Talend
 
 |Period|Position|
 | :------------------ | :---------------------------- |
-| Jan 2016 - Aug 2017  | Information Architect |
-| Jan 2010 - Dec 2015 | Technical Writer (English) / Document Engineer |
+| Jan 2016 - Aug 2017  | Information architect |
+| Jan 2010 - Dec 2015 | Technical writer (English) / Product documentation engineer |
 | Dec 2007 - Dec 2009 | Technical writer/translator (EnglishFrench) |
 
 
