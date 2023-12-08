@@ -18,7 +18,7 @@ Known programming languages: HTML, XML, CSS, etc.
 | Jan 2021 - Present  | Product Documentation manager |
 | May 2020 - Present  | Senior Technical Writer       |
 
-# Pasted experiences
+# Past experiences
 ## LGM Digital
 
 |Period|Position|
