@@ -35,9 +35,9 @@ Known programming languages: HTML, XML, CSS, etc.
 
 |Period|Position|
 | :------------------ | :---------------------------- |
-| January 2016 - August 2017  | Information Architect |
-| January 2010 - December 2015 | Technical Writer (English) / Document Engineer |
-| December 2007 - December 2009 | Technical writer/translator (EnglishFrench) |
+| Jan 2016 - Aug 2017  | Information Architect |
+| Jan 2010 - Dec 2015 | Technical Writer (English) / Document Engineer |
+| Dec 2007 - Dec 2009 | Technical writer/translator (EnglishFrench) |
 
 
 
