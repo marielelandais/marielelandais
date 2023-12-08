@@ -13,10 +13,32 @@ Known programming languages: HTML, XML, CSS, etc.
 # Current experience
 ## ILEX by Inetum
 
-|Dates|Title|
+|Period|Position|
 | :------------------ | :---------------------------- |
 | Jan 2021 - Present  | Product Documentation manager |
 | May 2020 - Present  | Senior Technical Writer       |
+
+# Pasted experiences
+## LGM Digital
+
+|Period|Position|
+| :------------------ | :---------------------------- |
+| Sept 2019 - Apr 2020  |  Technical writing consultant |
+
+## Forest Hill
+
+|Period|Position|
+| :------------------ | :---------------------------- |
+| Sept 2018 - Jun 2019  |  Fitness Coach intern for the French sports and fitness instructor diploma BPJEPS |
+
+## Talend
+
+|Period|Position|
+| :------------------ | :---------------------------- |
+| January 2016 - August 2017  | Information Architect |
+| January 2010 - December 2015 | Technical Writer (English) / Document Engineer |
+| December 2007 - December 2009 | Technical writer/translator (EnglishFrench) |
+
 
 
 <!--
