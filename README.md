@@ -4,9 +4,9 @@ Based in the Greater Paris area, I'm a Product Documentation manager experienced
 I'm keen on complex technical subjects.
 
 Specialties: 
--Technical communication with structured documentation (XML Docbook and XML DITA), 
--Documentation engineering with XML, CSS and Apache Maven,
--Information architecture and taxonomy.
+* Technical communication with structured documentation (XML Docbook and XML DITA), 
+* Documentation engineering with XML, CSS and Apache Maven,
+* Information architecture and taxonomy.
 
 Known programming languages: HTML, XML, CSS, etc.
 
