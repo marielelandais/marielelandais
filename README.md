@@ -11,14 +11,20 @@ Specialties:
 Known programming languages: HTML, XML, CSS, etc.
 
 # Current experience
+## Gatewatcher
+|Period|Position|
+| :------------------ | :---------------------------- |
+| Jun 2024 - Apr 2020  |  Senior technical writer
+|
+
+# Past experiences
 ## ILEX by Inetum
 
 |Period|Position|
 | :------------------ | :---------------------------- |
-| Jan 2021 - Present  | Product documentation manager |
-| May 2020 - Present  | Senior technical writer       |
+| Jan 2021 - May 2024  | Product documentation manager |
+| May 2020 - May 2024  | Senior technical writer       |
 
-# Past experiences
 ## LGM Digital
 
 |Period|Position|
