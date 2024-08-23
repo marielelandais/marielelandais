@@ -14,7 +14,7 @@ Known programming languages: HTML, XML, CSS, etc.
 ## Gatewatcher
 |Period|Position|
 | :------------------ | :---------------------------- |
-| Jun 2024 - Apr 2020  |  Senior technical writer
+| Jun 2024 - present |  Senior technical writer
 |
 
 # Past experiences
