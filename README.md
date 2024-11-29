@@ -1,22 +1,22 @@
 # Hi there 👋
 
-Based in the Greater Paris area, I'm a Product Documentation manager experienced in technical writing in both English and French, documentation engineering and information architecture.
+Based in the Greater Paris area, I'm a Software Documentation specialist experienced in technical writing in both English and French, documentation engineering and information architecture.
 I'm keen on complex technical subjects.
 
 Specialties: 
-* Technical communication with structured documentation (XML Docbook and XML DITA), 
-* Documentation engineering with XML, CSS and Apache Maven,
+* Technical communication with structured documentation (XML DITA), 
+* Documentation engineering with XML, CSS and a bit of scripting,
 * Information architecture and taxonomy.
 
 Known programming languages: HTML, XML, CSS, etc.
 
-# Current experience
+# Past experiences
+
 ## Gatewatcher
 |Period|Position|
 | :------------------ | :---------------------------- |
-| Jun 2024 - present |  Senior technical writer |
+| Jun 2024 - Nov 2024 |  Senior technical writer |
 
-# Past experiences
 ## ILEX by Inetum Software
 
 |Period|Position|
