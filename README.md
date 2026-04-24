@@ -10,6 +10,13 @@ Specialties:
 
 Known programming languages: HTML, XML, CSS, etc.
 
+# Current job
+
+## Ansys part of Synopsys
+|Period|Position|
+| :----------------- | :---------------------------- |
+| Feb 2025 - Present | Senior R&D Documentation specialist  |
+
 # Past experiences
 
 ## Gatewatcher
