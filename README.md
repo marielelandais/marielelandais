@@ -22,7 +22,7 @@ Known programming languages: HTML, XML, CSS, etc.
 |Period|Position|
 | :------------------ | :---------------------------- |
 | Jan 2021 - May 2024  | Product documentation manager |
-| May 2020 - May 2024  | Senior technical writer       |
+| May 2020 - Jan 2021  | Senior technical writer       |
 
 ## LGM Digital
 
@@ -42,7 +42,7 @@ Known programming languages: HTML, XML, CSS, etc.
 | :------------------ | :---------------------------- |
 | Jan 2016 - Aug 2017  | Information architect |
 | Jan 2010 - Dec 2015 | Technical writer (English) / Product documentation engineer |
-| Dec 2007 - Dec 2009 | Technical writer/translator (EnglishFrench) |
+| Dec 2007 - Dec 2009 | Technical writer/translator (English & French) |
 
 
 
